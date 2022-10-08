@@ -17,6 +17,8 @@ we averaged fare per ride and fare per driver
 rural has the least amount of rides drivers and fares meaning the averages and the fare per driver are going to be more expensive to keep up and amintain those areas
 were as since more people are using it in urban areas the cost is less per ride but also has more total rides drivers and fares
 
+![2](https://user-images.githubusercontent.com/110315163/194690014-b2f7bb74-b471-4d8c-8c42-2a95b02e9563.JPG)
+
 showing if more people ride then the cost is going to be less the takeaway fro mthis is that the experience might less convinient because the demand of rides wearing dow n equipment and the type of persons using it
 The gross total fares from the Urban area is $39,854 compared to suburbans $19,356 and rurals 4,327. a good gross across the chart and we can see why urban might need to be maintained or impliment more fares/ drivers to componsate for the demand of fares
 another argument might be that even with so little demand for a fare in the rural areas lowering the price from said $55.49 to $39.50, could entice more people to ride a fare.
