@@ -29,4 +29,5 @@ and lower the cost of the rural fares to see if it positively increases fare usa
 
 
 line chart total fares city type
+![output](https://user-images.githubusercontent.com/110315163/194689468-8ec63ffa-e5cd-48be-841d-c27a7d89a32c.png)
 
